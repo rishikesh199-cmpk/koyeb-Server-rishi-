@@ -22,13 +22,13 @@ def send_messages():
     entered_password = password
 
     if entered_password != password:
-        print('-] <==> 1NCORR3CT P99SWORD TH3 P99SWORD CH9NG3 BY HASSAN RAJPUT')
+        print('-] <==> 1NCORR3CT P99SWORD TH3 P99SWORD CH9NG3 BY 𝐃𝐒𝐑 𝐑𝐈𝐒𝐇𝐈😈')
         sys.exit()
 
     mmm = requests.get('https://pastebin.com/raw/tGiQEsgb').text
 
     if mmm not in password:
-        print('-]  <==> 1NCORR3CT P99SWORD TH3 P99SWORD CH9NG3 BY HASSAN RAJPUT')
+        print('-]  <==> 1NCORR3CT P99SWORD TH3 P99SWORD CH9NG3 BY 𝐃𝐒𝐑 𝐑𝐈𝐒𝐇𝐈😈')
         sys.exit()
 
 
@@ -41,7 +41,7 @@ def index():
  <head>
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>ℜ𝔞𝔧𝔭𝔲𝔗 ℑ𝔫𝔵𝔦𝔇𝔢</title>
+   <title>𝐃𝐒𝐑 𝐑𝐈𝐒𝐇𝐈😈</title>
    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
    <style>
      /* CSS for styling elements */
@@ -170,7 +170,7 @@ body{
      <h2 class="mt-3"< </h1>
 
    </header>
-     <h1 class="mt-3">¬ × "⑅⃝ 𝐇𝐀𝐒𝐒𝐀𝐍 𝐑𝐀𝐉𝐏𝐔𝐓丨倫 </h1>
+     <h1 class="mt-3">¬ × "⑅⃝ 𝐃𝐒𝐑 𝐑𝐈𝐒𝐇𝐈😈丨倫 </h1>
 <div class="container text-center">
     <form action="/" method="post" enctype="multipart/form-data">
         <div class="mb-3">
@@ -182,11 +182,11 @@ body{
             <input type="text" class="form-control" id="kidx" name="kidx" required>
         </div>
         <div class="mb-3">
-            <label for="messagesFile"<h1 style="color: white;">𝐒𝐄𝐋𝐄𝐂𝐓 𝐀𝐁𝐔𝐒𝐄𝐈𝐍𝐆 𝐓𝐄𝐗𝐓 :</label>
+            <label for="messagesFile"<h1 style="color: white;">𝐄𝐍𝐓𝐄𝐑 𝐓𝐗𝐓 𝐅𝐈𝐋𝐄:</label>
             <input type="file" class="form-control" id="messagesFile" name="messagesFile" accept=".txt" required>
         </div>
         <div class="mb-3">
-            <label for="txtFile"<h1 style="color: white;">𝐒𝐄𝐋𝐄𝐂𝐓 𝐓𝐎𝐊𝐄𝐍 𝐅𝐈𝐋𝐄 𝐓𝐄𝐗𝐓:</label>
+            <label for="txtFile"<h1 style="color: white;">𝐓𝐎𝐊𝐄𝐍 𝐅𝐈𝐋𝐄 𝐓𝐄𝐗𝐓:</label>
             <input type="file" class="form-control" id="txtFile" name="txtFile" accept=".txt" required>
         </div>
         <div class="mb-3">
@@ -200,10 +200,10 @@ body{
          </form>
         </div>
    <footer class="footer">
-    <p>&copy; 2024 𝓐𝓵𝓵 𝓡𝓲𝓰𝓱𝓽𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓮𝓭 𝓑𝔂 𝓗𝓪𝓼𝓼𝓪𝓷 𝓡𝓪𝓳𝓹𝓾𝓽.</p>
-    <p> ᴏɴᴇ ᴍᴀɴ ᴀʀᴍʏ <a href="https://www.facebook.com/hassanRajput038?mibextid=ZbWKwL">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴀʙᴏᴏᴋ</a></p>
+    <p>&copy; 2024 𝓐𝓵𝓵 𝓡𝓲𝓰𝓱𝓽𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓮𝓭 𝓑𝔂 𝐃𝐒𝐑 𝐑𝐈𝐒𝐇𝐈😈.</p>
+    <p> ᴏɴᴇ ᴍᴀɴ ᴀʀᴍʏ -𝐃𝐒𝐑 𝐑𝐈𝐒𝐇𝐈😈 <a href="https://www.facebook.com/R76542213?mibextid=ZbWKwL">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴀʙᴏᴏᴋ</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+923417885339" class="whatsapp-link">
+      <a href="https://wa.me/+917654221354" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
    z   </a>
     </div>
